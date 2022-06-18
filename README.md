@@ -1,4 +1,3 @@
 # techwithlinh
-html
-css
-javscript
+My Portfolio Website
+phantrankhanhlinh.github.io/techwithlinh
